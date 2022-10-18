@@ -13,6 +13,7 @@
         <a href="https://maven-badges.herokuapp.com/maven-central/com.xuxueli/xxl-job/">
             <img src="https://maven-badges.herokuapp.com/maven-central/com.xuxueli/xxl-job/badge.svg" >
         </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fjunzaivip%2Fxxl-job?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjunzaivip%2Fxxl-job.svg?type=shield"/></a>
         <a href="https://github.com/xuxueli/xxl-job/releases">
          <img src="https://img.shields.io/github/release/xuxueli/xxl-job.svg" >
         </a>
@@ -31,6 +32,9 @@
     </p>
 </p>
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjunzaivip%2Fxxl-job.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjunzaivip%2Fxxl-job?ref=badge_large)
 
 ## Introduction
 XXL-JOB is a distributed task scheduling framework. 
